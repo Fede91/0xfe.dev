@@ -1,0 +1,67 @@
+{
+  "name": "0xfe.dev",
+  "version": "1.0.0",
+  "private": true,
+  "description": "0xfe.dev",
+  "author": "Federico",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "babel-plugin-emotion": "^11.0.0",
+    "babel-plugin-prismjs": "^2.1.0",
+    "babel-preset-gatsby": "^2.12.1",
+    "gatsby": "^4.11.1",
+    "gatsby-image": "^3.11.0",
+    "gatsby-paginate": "^1.1.1",
+    "gatsby-plugin-emotion": "^7.11.0",
+    "gatsby-plugin-i18n": "^1.0.1",
+    "gatsby-plugin-image": "^2.11.1",
+    "gatsby-plugin-mdx": "^3.12.1",
+    "gatsby-plugin-react-helmet": "^5.11.0",
+    "gatsby-plugin-sharp": "^4.12.1",
+    "gatsby-plugin-theme-ui": "^0.14.2",
+    "gatsby-source-contentful": "^7.9.1",
+    "gatsby-transformer-sharp": "^4.12.1",
+    "prism-react-renderer": "^1.3.1",
+    "prismjs": "^1.28.0",
+    "ptz-i18n": "^1.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-intl": "^5.24.8",
+    "react-live": "^2.4.1",
+    "react-medium-image-zoom": "^4.3.6",
+    "react-outside-click-handler": "^1.3.0",
+    "theme-ui": "^0.14.2",
+    "typeface-merriweather": "^1.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "@types/prismjs": "^1.26.0",
+    "@types/react": "^17.0.43",
+    "@types/react-dom": "^17.0.14",
+    "typescript": "^4.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fede91/0xfe.dev.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fede91/0xfe.dev/issues"
+  },
+  "homepage": "https://github.com/Fede91/0xfe.dev#readme"
+}
